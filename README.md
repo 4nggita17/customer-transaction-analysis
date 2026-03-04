@@ -43,7 +43,7 @@ These deviations exceed rounding errors, suggesting:
 - Synthetic data generation
 - Hidden discount/tax logic not provided in the dataset
 
-For analytical consistency, the `amount` column was treated as the source of truth for revenue calculations.
+For analytical consistency, the `total_purchase_amount` column was treated as the source of truth for revenue calculations.
 
 ---
 
